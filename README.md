@@ -3,22 +3,20 @@ HRWSC
 Hadoop Real-World Solutions Cookbook code
 
 # Hadoop Real-World Solutions Cookbook #
-=====
-## Overview ##
 
-Solutions to common problems when working in the Hadoop environment
-Recipes for (un)loading data, analytics, and troubleshooting
-In depth code examples demonstrating various analytic models, analytic solutions, and common best practices
+* Solutions to common problems when working in the Hadoop environment
+* Recipes for (un)loading data, analytics, and troubleshooting
+* In depth code examples demonstrating various analytic models, analytic solutions, and common best practices
 
 ## What you will learn from this book ##
 
-Data ETL, compression, serialization, and import/export 
-Simple and advanced aggregate analysis
-Graph analysis 
-Machine learning
-Troubleshooting and debugging
-Scalable persistence
-Cluster administration and configuration
+* Data ETL, compression, serialization, and import/export 
+* Simple and advanced aggregate analysis
+* Graph analysis 
+* Machine learning
+* Troubleshooting and debugging
+* Scalable persistence
+* Cluster administration and configuration
 
 ## In Detail ##
 
